@@ -7,9 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashirith&label=Profile%20views&color=0e75b6&style=flat" alt="aadityagupta" /> </p>
 
 
-- 🌱 I’m currently learning **React.js,Dexie.js, TypeScript, Javascript, Tailwind CSS, IndexedDB ,Redux, Node.js, Java, Springboot, Javascript ,MySQL,Express.js,MongoDB, **
-
-- 💬 Ask me about **MERN,Decentralized Application**
+- 🌱 I’m currently learning **React.js,Dexie.js, TypeScript, Javascript, Tailwind CSS, IndexedDB ,Redux, Node.js, Java, Springboot, Javascript ,MySQL,Express.js,MongoDB**
 
 - 📫 How to reach me **kaaditya1008@gmail.com**
 
